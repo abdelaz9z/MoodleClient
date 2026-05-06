@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- App -->
+    <string name="app_name">Moodle</string>
+    <string name="app_title">Moodle Client</string>
+
+    <!-- Login -->
+    <string name="login_subtitle">Sign in to access your courses</string>
+    <string name="login_tab_credentials">Login</string>
+    <string name="login_tab_token">Token</string>
+    <string name="login_option_a">Option A — Login with Credentials</string>
+    <string name="login_option_b">Option B — Pre-generated Token</string>
+    <string name="login_username">Username</string>
+    <string name="login_password">Password</string>
+    <string name="login_token_label">Web Service Token</string>
+    <string name="login_token_hint">The token will be validated by fetching your profile from the server.</string>
+    <string name="login_signing_in">Signing in…</string>
+    <string name="login_sign_in">Sign In</string>
+    <string name="login_validating">Validating…</string>
+    <string name="login_connect">Connect</string>
+    <string name="login_connecting_to">Connecting to</string>
+
+    <!-- Courses -->
+    <string name="courses_greeting">Hello, %1$s 👋</string>
+    <string name="courses_title">My Courses</string>
+    <string name="courses_complete">Complete</string>
+    <string name="courses_progress">Progress</string>
+    <string name="courses_progress_na">N/A</string>
+
+    <!-- Course Detail -->
+    <string name="course_detail_tab_content">Content</string>
+    <string name="course_detail_tab_grades">Grades</string>
+    <string name="course_detail_no_content">No content available</string>
+    <string name="course_detail_course_total">Course Total</string>
+    <string name="course_detail_grade_format">%1$s / %2$d</string>
+
+    <!-- Grades -->
+    <string name="grades_subtitle">Academic Performance</string>
+    <string name="grades_title">My Grades</string>
+    <string name="grades_items_count">%1$d items</string>
+    <string name="grades_more_items">… and %1$d more items</string>
+    <string name="grades_grade_items_header">Grade Items</string>
+
+    <!-- Navigation -->
+    <string name="nav_courses">Courses</string>
+    <string name="nav_grades">Grades</string>
+
+    <!-- Common -->
+    <string name="error_title">Something went wrong</string>
+    <string name="error_retry">Retry</string>
+    <string name="student_fallback">Student</string>
+</resources>
